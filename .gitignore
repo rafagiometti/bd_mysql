@@ -1,0 +1,34 @@
+# Arquivos de backup de dumps
+*.sql
+*.sql.gz
+*.bak.sql
+
+# Arquivos de banco de dados locais
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Arquivos de configuração sensíveis
+*.cnf
+*.env
+*.ini
+*.conf
+
+# Pasta oculta do MySQL Workbench
+*.mwb
+__MACOSX/
+
+# Diretórios de IDEs (caso esteja usando)
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de sistema (Windows/macOS)
+Thumbs.db
+.DS_Store
