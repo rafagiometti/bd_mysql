@@ -1,5 +1,4 @@
 # Arquivos de backup de dumps
-*.sql
 *.sql.gz
 *.bak.sql
 
